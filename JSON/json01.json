@@ -1,0 +1,12 @@
+{
+    "name": "Jiho Park",
+    "age": 23,
+    "city": "Seoul",
+    "isStudent": true,
+    "grades": [100, 92, 78],
+    "address": {
+      "street": "Korea Street",
+      "Code": "12345"
+    }
+  }
+  
